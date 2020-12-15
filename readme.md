@@ -2,9 +2,7 @@
 
 #### 1. Checkout this repo
 
-After you checkout this repo:
-- do npm install
-- create file config.json in root folder of this repo
+After you checkout this repo do npm install
 
 #### 2. Prepare config.json
 
