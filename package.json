@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ellenaua/aws-cognito-client/issues"
   },
-  "homepage": "https://github.com/ellenaua/aws-cognito-client#readme"
+  "homepage": "https://github.com/ellenaua/aws-cognito-client#readme",
+  "dependencies": {
+    "aws-sdk": "^2.810.0"
+  }
 }

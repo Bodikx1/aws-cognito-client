@@ -32,5 +32,11 @@ client.setUserPhone(username, newPhoneNumber, isVerified = true)
 client.setUserEmailVerified(username)
 client.setUserPhoneVerified(username)
 
+```
 
+### Scripts
+
+```
+./scripts/change_email.js username new_email
+./scripts/change_phone.js username new_email
 ```
